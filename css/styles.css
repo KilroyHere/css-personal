@@ -1,6 +1,4 @@
 body {
-  padding-left: 10px;
-  padding-right: 10px;
   text-align: center;
   margin: 0;
   font-family: 'Josefin Sans', sans-serif;
@@ -71,8 +69,15 @@ img {
   width: auto;
 }
 
+.middle-container{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 .bottom-container {
   text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .pro {
